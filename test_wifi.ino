@@ -7,8 +7,8 @@
 
 
 #ifndef STASSID
-#define STASSID "FRITZ!Box 7430 AC"
-#define STAPSK  "64216500091868527289"
+#define STASSID "setSSID"
+#define STAPSK  "changeme"
 #endif
 
 const char* ssid     = STASSID;
